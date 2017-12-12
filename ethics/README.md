@@ -8,6 +8,10 @@ This is an [open source project](https://github.com/TheLucasMoore/consensual_sof
 This [book](https://www.amazon.com/gp/product/0312141041/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) discusses engineering ethics. <br>
 *h/t [Lisa](https://twitter.com/niftynei) who sent this to me*
 
+### [Three Ethical Frameworks]((http://coursedev.citl.mun.ca/educ2740/the-nature-of-ethics/topic-2/))
+Whether we're conscious of it or not, we make decisions using ethical frameworks. This is important to recognize because different frameworks can lead us to different, yet equally valid conclusions. This article covers deontological, utilitarian, and virtue-based ethics.<br>
+h/t [Ben Ng](https://twitter.com/_benng)
+
 ### IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices
 
 This [joint task force](https://www.computer.org/web/education/code-of-ethics) puts forth what they refer to as the Eight Principles along with specifics for each principle. The idea being that a software engineer takes into account both internal and external individuals when creating software <br>
