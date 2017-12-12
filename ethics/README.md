@@ -11,7 +11,7 @@ This [book](https://www.amazon.com/gp/product/0312141041/ref=oh_aui_search_detai
 ### IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices
 
 This [joint task force](https://www.computer.org/web/education/code-of-ethics) puts forth what they refer to as the Eight Principles along with specifics for each principle. The idea being that a software engineer takes into account both internal and external individuals when creating software <br>
-*h/t [Jonathan](https://twitter.com/SilvestriCodes) who sent this to me*
+*h/t [Jonathan](https://twitter.com/SilvestriCodes)*
 
 <!--
 Copy the following to add your own PR
