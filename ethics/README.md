@@ -17,6 +17,10 @@ h/t [Ben Ng](https://twitter.com/_benng)
 This [joint task force](https://www.computer.org/web/education/code-of-ethics) puts forth what they refer to as the Eight Principles along with specifics for each principle. The idea being that a software engineer takes into account both internal and external individuals when creating software <br>
 *h/t [Jonathan](https://twitter.com/SilvestriCodes)*
 
+### [Do Artifacts Have Ethics?](https://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+By L.M. Sacasas. A short list of questions technologists can use to interrogate the moral/ethical dimensions of the technologies they help create. <br>
+h/t [patrick ellis](https://twitter.com/pje_txt)
+
 <!--
 Copy the following to add your own PR
 
