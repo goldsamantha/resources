@@ -8,7 +8,10 @@ This is an [open source project](https://github.com/TheLucasMoore/consensual_sof
 This [book](https://www.amazon.com/gp/product/0312141041/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) discusses engineering ethics. <br>
 *h/t [Lisa](https://twitter.com/niftynei) who sent this to me*
 
+### IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices
 
+This [joint task force](https://www.computer.org/web/education/code-of-ethics) puts forth what they refer to as the Eight Principles along with specifics for each principle. The idea being that a software engineer takes into account both internal and external individuals when creating software <br>
+*h/t [Jonathan](https://twitter.com/SilvestriCodes) who sent this to me*
 
 <!--
 Copy the following to add your own PR
